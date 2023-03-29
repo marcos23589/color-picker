@@ -1,0 +1,30 @@
+h2 {
+    text-align: center;
+}
+.salida {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    width: 30%;
+    height: 8rem;
+    margin: 1rem 35%;
+    border: 1px solid;
+}
+
+.color-div {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.lista {    
+    width: 90px;
+    height: 35px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+
+.picker{
+    width: 80px;
+    height: 40px;
+}
